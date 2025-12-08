@@ -89,16 +89,13 @@ The notebook contains multiple visualizations such as:
 - Category distribution  
 - Yearly review trends  
 - Word frequency bar chart  
-
-All visualizations are included inside the `.ipynb` notebook.
-
 ---
 
 ## 📄 Files in This Folder
 
-- **Eda.ipynb** – Complete exploratory analysis  
+- **Eda.ipynb**[Eda.ipynb](Eda.ipynb) – Complete exploratory analysis  
 - **Task2_vedio link**-  
-- **Images/** – Plots generated during the analysis (optional)  
+
 
 ---
 
