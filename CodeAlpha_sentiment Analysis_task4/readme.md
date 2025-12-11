@@ -70,15 +70,16 @@ Most reviews are positive, indicating strong customer satisfaction.
 1.**Common positive words:** great, excellent, love, perfect.
 2.**Common negative words:** poor, broken, returned, disappointed.
 3.**Neutral reviews** tend to include factual or mixed statements.
-
-*VADER* matches rating sentiment well, especially for strong positive reviews.
-*Mismatches*occur in short reviews or when the text sentiment doesn’t match the star rating.
+4.*VADER* matches rating sentiment well, especially for strong positive reviews.
+5.*Mismatches*occur in short reviews or when the text sentiment doesn’t match the star rating.
 Insights can support marketing, product improvements, and customer experience decisions.
 ## Ethical Considerations
 Data used is publicly available Amazon review data.
 No personal or sensitive information is included.
 This project is for educational and internship evaluation purposes only.
-
+📄 Files in This Folder
+[CodeAlpha_SentimentAnalysis.ipynb](CodeAlpha_SentimentAnalysis.ipynb )
+Task2_vedio link-
 ## Conclusion
 This project demonstrates the complete sentiment analysis workflow using NLP, including preprocessing, sentiment scoring, visualizations, and evaluation.
 It fulfills all required components of Task 4 for the CodeAlpha Data Analyst Internship.
