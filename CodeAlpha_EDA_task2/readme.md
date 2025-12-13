@@ -13,11 +13,7 @@ This task provides the analytical foundation for Task 3 (Visualization) and Task
 
 📁 Dataset Summary
 
-The dataset includes the following key columns:
-
-product_name – Name of the product
-
-category – Product category
+The dataset includes the following key columns
 
 rating – Customer rating (1–5)
 
@@ -27,7 +23,7 @@ review_date – Date of review
 
 votes – Helpful vote count
 
-price – Product price
+summary 
 
 ##  Data Cleaning Performed
 
@@ -148,7 +144,7 @@ Task 2 Video Explanation Link – (included in submission)
 
 📝 Key Insights
 
-Most customers provide positive ratings (4–5 stars)
+Most customers provide positive ratings (5 stars)
 
 Negative reviews tend to be longer and more descriptive
 
