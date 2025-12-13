@@ -138,9 +138,7 @@ Word frequency bar chart
 
 📄 Files in This Folder
 
-Eda.ipynb – Complete exploratory data analysis notebook
-
-Task 2 Video Explanation Link – (included in submission)
+[Eda.ipynb](Eda.ipynb) – Complete exploratory data analysis notebook
 
 📝 Key Insights
 
