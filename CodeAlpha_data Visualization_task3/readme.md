@@ -117,7 +117,7 @@ Files
  - **Dashboard Report (PDF):** [CodeAlpha_Data_Visualization.pdf](CodeAlpha_Data_Visualization.pdf)  
 -**Dashboard Preview:**  
  <p align="center">
-    <img src="Screenshot(101).png"
+    <img src="CodeAlpha.png"
      </p>
    
 ---
