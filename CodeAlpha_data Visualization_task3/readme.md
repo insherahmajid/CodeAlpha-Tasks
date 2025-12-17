@@ -113,15 +113,13 @@ These slicers allow dynamic, drill-down analysis across time and rating levels.
 
 ---
 Files
--  **Power BI File:** [.pbix`]()
- - **Dashboard Report (PDF):** []()  
+-  **Power BI File:** [CodeAlpha_Data_Visualization.pbix](CodeAlpha_Data_Visualization.pbix)
+ - **Dashboard Report (PDF):** [CodeAlpha_Data_Visualization.pdf](CodeAlpha_Data_Visualization.pdf)  
 -**Dashboard Preview:**  
  <p align="center">
-    <img src="Images/cyc1.png"
+    <img src="Screenshot(101).png"
      </p>
-   <p align="center">
-    <img src="Images/cyc2.png"
-     </p>
+   
 ---
 
 
