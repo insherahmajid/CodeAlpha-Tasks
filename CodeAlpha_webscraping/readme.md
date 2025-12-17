@@ -48,6 +48,7 @@ The final dataset is stored as: [books_page1_clean.csv](CodeAlpha_webscraping/bo
 **Notebook:** [codealpha_webscraping.ipynb](CodeAlpha_webscraping/codealpha_webscraping.ipynb)
 **Vedio Explanation**[WATCH HERE](https://drive.google.com/file/d/1PNX-tVDWoUzP-Ka62EVYtr_B8UPQqaA3/view?usp=sharing)
 It contains **20 records**, each representing one book from Page 1.
+**LinkedIn Post Link**[Check Here](https://www.linkedin.com/posts/insherah-majid-146496317_codealpha-internship-task-1-completed-completed-activity-7403735463036989440-GdSN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBW4kYBpa2mBkrH4-NH-AnzPdSnKTptRTo)
 
 ---
 
